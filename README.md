@@ -26,7 +26,7 @@
 
 ### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,c,css,cloudflare,git,github,discord" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,python,pycharm,vscode,visualstudio,bash,powershell,r,c,mysql,html,css,js,django,eclipse,cloudflare,linkedin,notion,git,github,discord" />
 </p>
 
 - Wireshark  
