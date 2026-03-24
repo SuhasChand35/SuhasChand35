@@ -64,7 +64,7 @@
 - Infosys Cybersecurity
 - Cisco Introduction to cybersecurity
 - Sololearn Python(Intermediate)
-- Cisco CEH (persuing)
+- Cisco CEH 
 - Coursera C Fundamentals
 
 ---
