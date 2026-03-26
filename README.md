@@ -63,7 +63,7 @@
 - Cisco Junior Cybersecurity Analyst
 - Infosys Cybersecurity
 - Cisco Introduction to cybersecurity
-- Sololearn Python(Intermediate)
+- Sololearn Python(Beginner and Intermediate)
 - Cisco CEH 
 - Coursera C Fundamentals
 
