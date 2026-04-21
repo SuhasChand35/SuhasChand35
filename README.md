@@ -8,7 +8,7 @@
 - 🌐 Strong foundation in **Networking & Cybersecurity**
 - 🧪 Hands-on labs: **DVWA, OWASP Juice Shop, Safeline WAF**
 - 🐍 Basic **Python scripting for automation**
-- 📚 Currently preparing for Ethical Hacking
+- 📚 Currently preparing OSINT
 
 ---
 
